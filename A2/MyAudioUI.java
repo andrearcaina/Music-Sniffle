@@ -11,7 +11,7 @@ public class MyAudioUI
 		AudioContentStore store = new AudioContentStore();
 		
 		// Create my music mylibrary
-		A1_Library mylibrary = new A1_Library();
+		Library mylibrary = new Library();
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.print(">");
