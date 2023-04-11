@@ -4,8 +4,11 @@
 ### ```How to run: ``` ###
 - Make sure you have Java installed!
 - download a zip folder, extract and open ur fav IDE!
+- **MAKE SURE IT's IN THE RIGHT DIRECTORY!!!**
+  - to ensure you are on the right directory...
+    - make sure you have the terminal on ./A1 or ./A2
+    - depending on which assignment you want to run!
 - run it or type in the following into the terminal:
-  - **MAKE SURE IT's IN THE RIGHT DIRECTORY!!!**
   - ```javac MyAudioUI.java```
   - ```java MyAudioUI```
   - and u should be fine
@@ -19,4 +22,4 @@
   - this features the entire text app like A1
   - but, the difference is the music is in a store.txt file
   - and the exceptions are actually thrown!
-- A2 is the better version of the assignment
+- A2 is the better version of the assignment (i think)
