@@ -10,7 +10,7 @@ import java.util.Comparator;
 /*
  * This class manages, stores, and plays audio content such as songs, podcasts and audiobooks. 
  */
-public class Library
+public class A1_Library
 {
 	private ArrayList<Song> 			songs; 
 	private ArrayList<AudioBook> 	audiobooks;
@@ -28,7 +28,7 @@ public class Library
 		return errorMsg;
 	}
 
-	public Library()
+	public A1_Library()
 	{
 		songs 		= new ArrayList<Song>(); 
 		audiobooks 	= new ArrayList<AudioBook>(); ;

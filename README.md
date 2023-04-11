@@ -19,3 +19,4 @@
   - this features the entire text app like A1
   - but, the difference is the music is in a store.txt file
   - and the exceptions are actually thrown!
+- A2 is the better version of the assignment

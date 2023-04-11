@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 // Simulation of a Simple Text-based Music App (like Apple Music)
 
@@ -14,7 +11,7 @@ public class MyAudioUI
 		AudioContentStore store = new AudioContentStore();
 		
 		// Create my music mylibrary
-		Library mylibrary = new Library();
+		A1_Library mylibrary = new A1_Library();
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.print(">");
@@ -29,7 +26,7 @@ public class MyAudioUI
 				System.out.print("\n>");
 				continue;
 			}
-			else if (action.equalsIgnoreCase("Q") || action.equalsIgnoreCase("QUIT"))
+			else if (action.equalsIgnoreCase("Q") || action.equalsIgnoreCase("QUIT")) 
 				return;
 			
 			else if (action.equalsIgnoreCase("STORE"))	// List all songs
