@@ -25,7 +25,7 @@
 - A2 is the better version of the assignment (i think)
 
 ### ```Differences!``` ###
-- the main differences between both code is:
+- the main differences between both A1 and A2 are:
   - how MyAudioUI functions 
   - what data AudioContentStore is coming from
   - how the Library file has changed from returning booleans to catching exceptions 
