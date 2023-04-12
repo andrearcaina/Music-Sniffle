@@ -29,3 +29,6 @@
   - how MyAudioUI functions 
   - what data AudioContentStore is coming from
   - how the Library file has changed from returning booleans to catching exceptions 
+
+### ```Purpose``` ###
+- This code is meant for CPS209!
