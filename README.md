@@ -1,5 +1,5 @@
 # Music-Sniffle
-- Text based Music application entirely coded in Java.
+- Text-based Music Application entirely coded in Java.
 
 ### ```How to run:``` ###
 - Make sure you have Java installed!
