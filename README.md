@@ -13,7 +13,7 @@
   - ```java MyAudioUI```
   - and u should be fine
 
-### Two Types: 
+### ```Two Types:``` ###
 - A1 and A2
 - A1 is the first version of the assignment
   - this features the entire text app
@@ -24,7 +24,7 @@
   - and the exceptions are actually thrown!
 - A2 is the better version of the assignment (i think)
 
-### Differences!
+### ```Differences!``` ###
 - the main differences between both code is:
   - how MyAudioUI functions 
   - what data AudioContentStore is coming from
