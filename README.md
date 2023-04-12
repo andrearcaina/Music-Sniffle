@@ -13,7 +13,7 @@
   - ```java MyAudioUI```
   - and u should be fine
 
-### ```Two Types:``` ###
+### ```Two Assignments ...``` ###
 - A1 and A2
 - A1 is the first version of the assignment
   - this features the entire text app
