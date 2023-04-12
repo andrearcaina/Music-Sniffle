@@ -23,3 +23,9 @@
   - but, the difference is the music is in a store.txt file
   - and the exceptions are actually thrown!
 - A2 is the better version of the assignment (i think)
+
+### Differences!
+- the main differences between both code is:
+  - how MyAudioUI functions 
+  - what data AudioContentStore is coming from
+  - how the Library file has changed from returning booleans to catching exceptions 
